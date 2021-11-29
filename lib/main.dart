@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Fluttet releasasdaswqedqwxdasdasde 2wer irewros'),
+      home: const MyHomePage(title: 'Fluttet releasasdaswqeqwqwewedqwxdasdasde 2wer irewros'),
     );
   }
 }
